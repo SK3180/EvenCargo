@@ -1,6 +1,9 @@
 # EvenCargo Project
 <img src="https://github.com/SK3180/EvenCargo/assets/82767208/e12923eb-cbf5-40a7-afab-e1d2caee1f70" alt="icon" width="200"/>
 
+Demo Video link - https://drive.google.com/file/d/1a5aKE1gXR0GrLNydXh_uU8o9WXSlQ_Ec/view?usp=sharing
+
+Apk Link - https://drive.google.com/file/d/1NmBV90Ia3HqRx9BCsJQVMYZOMzVPWgNG/view?usp=sharing
 ## Overview
 MyApplication is an Android app built using Jetpack Compose, MVVM architecture, Dagger Hilt for dependency injection, and Firebase Authentication. The application includes a login screen for user authentication and a home screen displaying basic user information post-login.
 
